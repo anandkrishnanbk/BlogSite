@@ -1,0 +1,18 @@
+.sideBar
+{
+  float:right;
+  width:200px;
+  border:1px solid white;
+  background-color:white;
+}
+.main
+{
+  background-color:red;
+  //overflow:hidden;
+}
+.imgStyle
+{
+  float:right;
+  width:100px;
+  clear:right;
+}
